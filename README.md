@@ -1,2 +1,2 @@
-# COSC-2329
-Work done for Component Based Programming
+# Component Based Programming
+Work done for Component Based Programming - COSC2329
